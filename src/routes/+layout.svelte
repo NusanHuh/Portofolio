@@ -1,6 +1,6 @@
 <script lang="ts">
 	import './layout.css';
-	import favicon from '$lib/assets/favicon.svg';
+	import favicon from '$lib/assets/icon.png';
 	import Lenis from 'lenis';
 	import { onMount } from 'svelte';
 	import { lenisStore } from '$lib/lenis.svelte';
