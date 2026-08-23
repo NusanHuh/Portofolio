@@ -62,7 +62,7 @@
 		deskripsi:
 			'Suatu website yang menampilkan informasi, data pengguna yang dapat dibaca semua orang.',
 
-		linkweb: 'https://aditya-portofolio.netlify.app',
+		linkweb: 'https://adityaps-portofolio.netlify.app',
 		linkrepo: 'https://github.com/NusanHuh/Portofolio',
 
 		fitur: ['Menampilkan data untuk publik', 'Menyampaikan informasi', 'Dan lainnya'],
@@ -103,7 +103,9 @@
 		try {
 			teksunduh = 'Mengunduh';
 
-			const response = await fetch('https://raw.githubusercontent.com/NusanHuh/WebCSP/main/cv.pdf');
+			const response = await fetch(
+				'https://raw.githubusercontent.com/NusanHuh/WebCSP/main/cvcv.pdf'
+			);
 
 			if (!response.ok) {
 				console.error('Gagal mengambil file:', response.status);
