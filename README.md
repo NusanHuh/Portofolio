@@ -135,7 +135,7 @@ Kartu proyek memanggil `datanya('dataone')`, kemudian menyimpan objek `oneproyek
 - Judul: `PERSONAL PORTOFOLIO`
 - Deskripsi website portofolio publik
 - Link website: `https://aditya-portofolio.netlify.app`
-- Link repositori yang saat ini mengarah ke `https://google.com`
+- Link repositori yang saat ini mengarah ke `https://github.com/NusanHuh/Portofolio`
 - Fitur, fungsi, dan stack Svelte, TypeScript, Tailwind CSS, Node.js, serta Lenis
 
 Modal dapat ditutup melalui tombol `TUTUP`. Saat terbuka, scrolling halaman dihentikan dan overflow body dikunci.
