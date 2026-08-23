@@ -134,7 +134,7 @@ Kartu proyek memanggil `datanya('dataone')`, kemudian menyimpan objek `oneproyek
 
 - Judul: `PERSONAL PORTOFOLIO`
 - Deskripsi website portofolio publik
-- Link website: `https://aditya-portofolio.netlify.app`
+- Link website: `https://adityaps-portofolio.netlify.app`
 - Link repositori yang saat ini mengarah ke `https://github.com/NusanHuh/Portofolio`
 - Fitur, fungsi, dan stack Svelte, TypeScript, Tailwind CSS, Node.js, serta Lenis
 
@@ -158,7 +158,7 @@ Tampilan daftar dapat dipersempit atau diperluas memakai state `viewall`.
 Tombol CV melakukan fetch ke:
 
 ```text
-https://raw.githubusercontent.com/NusanHuh/WebCSP/main/cv.pdf
+https://raw.githubusercontent.com/NusanHuh/WebCSP/main/cvcv.pdf
 ```
 
 File hasil fetch dibuat menjadi object URL lalu diunduh sebagai `CV-Aditya-Parama-Sandya.pdf`. Selama proses, label tombol berubah menjadi `Mengunduh`.
