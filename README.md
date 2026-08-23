@@ -289,8 +289,6 @@ Disallow:
 ## Catatan Operasional
 
 - Perubahan konten utama saat ini dilakukan langsung di `src/routes/+page.svelte`; data proyek dan metadata sertifikat belum dipisahkan ke file data.
-- Unduhan CV memakai sumber GitHub eksternal walaupun `static/cv.pdf` juga tersedia. Keberhasilan unduh bergantung pada ketersediaan URL eksternal dan kebijakan CORS.
-- Link repositori proyek masih berupa placeholder `https://google.com`.
 - Sebagian SVG ikon ditulis inline di komponen halaman.
 - `.svelte-kit/` dibuat ulang oleh `svelte-kit sync`; jangan mengedit hasil generated secara manual.
 - Deployment produksi perlu mengikuti lingkungan Node yang sesuai dengan output adapter Node.
