@@ -29,5 +29,5 @@
 	});
 </script>
 
-<svelte:head><link rel="icon" href={favicon} /></svelte:head>
+<svelte:head><link rel="icon" href={favicon} /> <title>Aditya Parama Sandya</title></svelte:head>
 {@render children()}

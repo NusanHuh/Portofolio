@@ -1798,13 +1798,11 @@
 	.saeblas {
 		background: rgba(255, 255, 255, 0.71);
 		backdrop-filter: blur(8.1px);
-		-webkit-backdrop-filter: blur(8.1px);
 	}
 
 	.bbgbbg {
 		background-color: #00000050;
 		backdrop-filter: blur(13.5px);
-		-webkit-backdrop-filter: blur(13.5px);
 	}
 
 	.marquee {
