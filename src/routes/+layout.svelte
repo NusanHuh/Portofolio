@@ -164,7 +164,7 @@
 					programmingLanguage: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
 					keywords:
 						'portofolio, SvelteKit, TypeScript, TailwindCSS, Node.js, Lenis, frontend developer',
-					codeRepository: 'https://github.com/NusanHuh/Portofolio',
+					codeRepository: 'https://github.com/NusanHuh/Portofolio'
 				},
 				{
 					'@type': 'ItemList',
