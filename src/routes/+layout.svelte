@@ -30,8 +30,21 @@
 </script>
 
 <svelte:head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-QLEK28PK18"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-QLEK28PK18');
+	</script>
+
 	<link rel="icon" href={favicon} />
 	<link rel="canonical" href="https://adityaps-portofolio.my.id/" />
+	<meta name="google-site-verification" content="Kke--g8l7bn1hr9tmtcbZCl7U8DvJdqok5H8p2pHemo" />
 	<meta
 		name="description"
 		content="Portofolio Aditya Parama Sandya, frontend developer dari Probolinggo, Indonesia. Membangun website dengan SvelteKit, TypeScript, HTML, CSS, Node.js, REST API, chatbot WhatsApp, dan AI."
