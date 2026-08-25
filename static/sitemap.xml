@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc>https://adityaps-portofolio.my.id/</loc>
+		<lastmod>2026-08-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/1.jpg</image:loc>
+			<image:title>Aditya Parama Sandya - Frontend Developer</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/2.png</image:loc>
+			<image:title>Proyek Personal Portofolio Aditya Parama Sandya</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/UPT.png</image:loc>
+			<image:title>Sertifikat Pelatihan UPT.TIKP</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/Binus1.png</image:loc>
+			<image:title>Sertifikat Pelatihan BINUS Bahasa C</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/Binus2.png</image:loc>
+			<image:title>Sertifikat Pelatihan BINUS Bahasa C</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/AI1.png</image:loc>
+			<image:title>Sertifikat AI Ready ASEAN</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/AI2.png</image:loc>
+			<image:title>Sertifikat AI Ready ASEAN</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/freecode.png</image:loc>
+			<image:title>Sertifikat FreeCodeCamp Microsoft C#</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/umm1.png</image:loc>
+			<image:title>Sertifikat Kuliah Umum UMM</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/umm2.png</image:loc>
+			<image:title>Sertifikat Kuliah Umum UMM</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://adityaps-portofolio.my.id/Tech.png</image:loc>
+			<image:title>Tech and Social Summit 2026</image:title>
+		</image:image>
+	</url>
+</urlset>
